@@ -22,4 +22,4 @@ The model uses a dataset containing features such as:
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Fitness-Lifestyle-Prediction.git
+   git clone https://github.com/PrathamAgrawal51/Fitness-and-Lifestyle-Prediction-Model.git
