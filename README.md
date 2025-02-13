@@ -17,7 +17,7 @@ The model uses a dataset containing features such as:
 - Exercise frequency
 - Diet patterns
 - Sleep hours
-- Alcohol and smoking habits
+- Heart Rate & Step Count
 
 ## Installation
 1. Clone the repository:
